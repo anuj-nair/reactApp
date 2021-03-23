@@ -1,0 +1,29 @@
+/*
+
+yellow=#f1c50e;
+grey=#808080;
+black=$11111;
+slateBlack=#1a1a1a;
+
+dullYellow=#f9ed69 - 40%
+dullPeach=#f08a5d - 30%
+dullPink=#b83b5e - 20%
+dullViolet=#6a2c70 - 10%
+*/
+
+.nav-bar{
+  padding: 5px 2px;
+  background: #fafafa;
+  }
+
+.nav-item{
+  padding:0 10px;
+  font-size: 22px;
+  font-weight:bolder;
+  color: #1a1a1a;
+  text-decoration:None;
+}
+
+.nav-active{
+  color: #f1c50e;
+}
