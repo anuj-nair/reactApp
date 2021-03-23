@@ -7,19 +7,19 @@ export function Home() {
   return (
     <>
       <nav className="nav-bar">
-        <Link className="nav-active nav-item" to="/">
+        <Link className="nav-active nav-item" to="/reactApp/">
           Home
         </Link>
-        <Link className="nav-item" to="/about">
+        <Link className="nav-item" to="/reactApp/about">
           About
         </Link>
-        <Link className="nav-item" to="/skills">
+        <Link className="nav-item" to="/reactApp/skills">
           Skills
         </Link>
-        <Link className="nav-item" to="/projects">
+        <Link className="nav-item" to="/reactApp/projects">
           Projects
         </Link>
-        <Link className="nav-item" to="/contact">
+        <Link className="nav-item" to="/reactApp/contact">
           Contact
         </Link>
       </nav>
@@ -31,19 +31,19 @@ export function About() {
   return (
     <>
       <nav className="nav-bar">
-        <Link className="nav-item" to="/">
+        <Link className="nav-item" to="/reactApp/">
           Home
         </Link>
-        <Link className="nav-active nav-item" to="/about">
+        <Link className="nav-active nav-item" to="/reactApp/about">
           About
         </Link>
-        <Link className="nav-item" to="/skills">
+        <Link className="nav-item" to="/reactApp/skills">
           Skills
         </Link>
-        <Link className="nav-item" to="/projects">
+        <Link className="nav-item" to="/reactApp/projects">
           Projects
         </Link>
-        <Link className="nav-item" to="/contact">
+        <Link className="nav-item" to="/reactApp/contact">
           Contact
         </Link>
       </nav>
@@ -54,19 +54,19 @@ export function Skills() {
   return (
     <>
       <nav className="nav-bar">
-        <Link className="nav-item" to="/">
+        <Link className="nav-item" to="/reactApp/">
           Home
         </Link>
-        <Link className="nav-item" to="/about">
+        <Link className="nav-item" to="/reactApp/about">
           About
         </Link>
-        <Link className="nav-active nav-item" to="/skills">
+        <Link className="nav-active nav-item" to="/reactApp/skills">
           Skills
         </Link>
-        <Link className="nav-item" to="/projects">
+        <Link className="nav-item" to="/reactApp/projects">
           Projects
         </Link>
-        <Link className="nav-item" to="/contact">
+        <Link className="nav-item" to="/reactApp/contact">
           Contact
         </Link>
       </nav>
@@ -78,19 +78,19 @@ export function Projects() {
   return (
     <>
       <nav className="nav-bar">
-        <Link className="nav-item" to="/">
+        <Link className="nav-item" to="/reactApp/">
           Home
         </Link>
-        <Link className="nav-item" to="/about">
+        <Link className="nav-item" to="/reactApp/about">
           About
         </Link>
-        <Link className="nav-item" to="/skills">
+        <Link className="nav-item" to="/reactApp/skills">
           Skills
         </Link>
-        <Link className="nav-active nav-item" to="/projects">
+        <Link className="nav-active nav-item" to="/reactApp/projects">
           Projects
         </Link>
-        <Link className="nav-item" to="/contact">
+        <Link className="nav-item" to="/reactApp/contact">
           Contact
         </Link>
       </nav>
@@ -102,19 +102,19 @@ export function Contact() {
   return (
     <>
       <nav className="nav-bar">
-        <Link className="nav-item" to="/">
+        <Link className="nav-item" to="/reactApp/">
           Home
         </Link>
-        <Link className="nav-item" to="/about">
+        <Link className="nav-item" to="/reactApp/about">
           About
         </Link>
-        <Link className="nav-item" to="/skills">
+        <Link className="nav-item" to="/reactApp/skills">
           Skills
         </Link>
-        <Link className="nav-item" to="/projects">
+        <Link className="nav-item" to="/reactApp/projects">
           Projects
         </Link>
-        <Link className="nav-active nav-item" to="/contact">
+        <Link className="nav-active nav-item" to="/reactApp/contact">
           Contact
         </Link>
       </nav>
@@ -127,19 +127,19 @@ export function Whoops404() {
   return (
     <>
       <nav className="nav-bar">
-        <Link className="nav-item" to="/">
+        <Link className="nav-item" to="/reactApp/">
           Home
         </Link>
-        <Link className="nav-item" to="/about">
+        <Link className="nav-item" to="/reactApp/about">
           About
         </Link>
-        <Link className="nav-item" to="/skills">
+        <Link className="nav-item" to="/reactApp/skills">
           Skills
         </Link>
-        <Link className="nav-item" to="/projects">
+        <Link className="nav-item" to="/reactApp/projects">
           Projects
         </Link>
-        <Link className="nav-item" to="/contact">
+        <Link className="nav-item" to="/reactApp/contact">
           Contact
         </Link>
       </nav>

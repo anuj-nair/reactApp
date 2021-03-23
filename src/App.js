@@ -7,11 +7,11 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/skills" element={<Skills />} />
-        <Route path="/projects" element={<Projects />} />
-        <Route path="/contact" element={<Contact />} />
+        <Route path="/reactApp/" element={<Home />} />
+        <Route path="/reactApp/about" element={<About />} />
+        <Route path="/reactApp/skills" element={<Skills />} />
+        <Route path="/reactApp/projects" element={<Projects />} />
+        <Route path="/reactApp/contact" element={<Contact />} />
         <Route path="*" element={<Whoops404 />} />
       </Routes>
     </>
